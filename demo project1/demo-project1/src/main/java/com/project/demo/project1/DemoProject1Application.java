@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoProject1Application {
-
+   int y=12
 	public static void main(String[] args) {
 		SpringApplication.run(DemoProject1Application.class, args);
 	}
